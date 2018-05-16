@@ -203,4 +203,4 @@ outputs:
 
 # Optional, disable RSS feed
 #disableKinds:
-  #- RSS
+  #- RSScode
