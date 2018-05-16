@@ -11,7 +11,7 @@
 # Every site needs these few: theme, baseURL, languageCode and title
 # Name of the theme your Hugo site uses; leave this in place:
 theme: "hugo-smorg"
-baseURL: "https://appbus.com/"
+baseURL: "https://agitated-kowalevski-711100.netlify.com"
 languageCode: "en-us"
 title: "Hugo-Smorg Theme"
 
