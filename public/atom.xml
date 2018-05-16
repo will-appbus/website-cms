@@ -1,0 +1,12 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Hugo-Smorg Theme</title>
+	<link href="https://appbus.com/atom.xml" rel="self"/>
+	<link href="https://appbus.com/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<id>https://appbus.com/</id>
+	<author>
+		<name>AppBus</name>
+		<email>admin@appbus.com</email>
+	</author>
+</feed>
